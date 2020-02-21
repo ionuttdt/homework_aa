@@ -1,0 +1,9 @@
+DUTA Viorel-Ionut, 321CB, 100/100, Tema 2 AA
+
+	Primul pas in rezolvarea temei a fost construirea matricei de adiacenta, 
+citind fiecare linie din fisierul de intrare si adaugand elementele cititte in
+matricea M.
+	Pentru a calcula expresia exchivalenta a trebuit sa parcurg de mai multe 
+ori matricea si sa scriu expresia corespunzatoare in fisierul de iesire.
+Programul echivalent are un timp de rulare polinomial, complexitatea acestuia 
+fiind n^3 (avem maxim 3 for-uri care fac n pasi fiecare).
